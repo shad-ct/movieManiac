@@ -72,13 +72,13 @@
 
 ## 📷 Screenshots
 
-| Home Screen | Movie Details | Swipe Interface |
+| Swipe Interface Home | Quotes | Liked |
 |-------------|---------------|-----------------|
-| ![Home](https://github.com/user-attachments/assets/b8610090-1263-42d2-b37a-9e9d76349aaf) | ![Details](https://github.com/user-attachments/assets/080a7242-569d-49d2-b44b-f457eec2b23a) | ![Swipe](https://github.com/user-attachments/assets/25db7238-40aa-4af2-9557-7eaacdb23455) |
+| ![Home](https://github.com/user-attachments/assets/b8610090-1263-42d2-b37a-9e9d76349aaf) | ![quotes](https://github.com/user-attachments/assets/080a7242-569d-49d2-b44b-f457eec2b23a) | ![liked](https://github.com/user-attachments/assets/25db7238-40aa-4af2-9557-7eaacdb23455) |
 
-| Library View | Dark Mode |
+| Watched | Watch Later|
 |--------------|-----------|
-| ![Library](https://github.com/user-attachments/assets/82c296c3-d6e4-4eb6-a5da-5da5b202e32f) | ![Dark](https://github.com/user-attachments/assets/53111747-bdd6-45bb-a0b2-4266241adf3d) |
+| ![watched](https://github.com/user-attachments/assets/82c296c3-d6e4-4eb6-a5da-5da5b202e32f) | ![watch later](https://github.com/user-attachments/assets/53111747-bdd6-45bb-a0b2-4266241adf3d) |
 
 
 
